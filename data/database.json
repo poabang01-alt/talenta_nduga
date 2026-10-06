@@ -1,0 +1,17 @@
+{
+  "appName": "Talenta Nduga",
+  "version": "7.0",
+  "educationLevels": [
+    "SMA/SMK",
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "roles": [
+    "user",
+    "operator",
+    "admin",
+    "superadmin"
+  ],
+  "notes": "Ringkasan struktur data v8. Data aplikasi lengkap berada di database.js; berkas dokumen berada di IndexedDB browser pada prototype frontend; analitik trafik production memerlukan layanan terpusat."
+}
